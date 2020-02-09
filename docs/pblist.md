@@ -5,14 +5,14 @@
 ### Refreed Papers
 
 1. **Kosuke Murata**, Kento Emoto: **Recursion Schemes in Coq**. [Lin A. (eds) Programming Languages and Systems. APLAS 2019. Lecture Notes in Computer Science, vol. 11893, pp. 202-221](https://link.springer.com/book/10.1007/978-3-030-34175-6). Springer, Cham (2019)
-  + Presentation: [*17th Asian Symposium on Programming Languages and Systems* (APLAS2019)](https://conf.researchr.org/home/aplas-2019). Bali, Indonesia. December 2019.  Slide: [[pdf]](https://www.ipl-e.ai.kyutech.ac.jp/~muratak/docs/201912/aplas19_slide.pdf)
+  + Presentation: [*17th Asian Symposium on Programming Languages and Systems* (APLAS2019)](https://conf.researchr.org/home/aplas-2019). Bali, Indonesia. December 2019.
 
 ## In Japanese
 
 ### 査読付き出版論文
 
 1. **村田 康佑**，江本 健斗．**定理証明支援系Coqにおける不等式変形記法**．[情報処理学会論文誌プログラミング (PRO)，Vol. 11, No. 4, pp.1-12](http://id.nii.ac.jp/1001/00192771/)．2018年12月．
-  + 【口頭発表】[情報処理学会 第119回プログラミング研究発表会(PRO2018-1)](https://sigpro.ipsj.or.jp/pro2018-1/)，岐阜，2018年6月． スライド: [[PDF]](https://www.ipl-e.ai.kyutech.ac.jp/~muratak/docs/201806/pro18_1_slide.pdf)
+  + 【口頭発表】[情報処理学会 第119回プログラミング研究発表会(PRO2018-1)](https://sigpro.ipsj.or.jp/pro2018-1/)，岐阜，2018年6月．
 
 
 #### 口頭発表・査読なし論文・ポスタ発表など
