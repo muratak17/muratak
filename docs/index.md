@@ -2,7 +2,7 @@
 # 村田 康佑
 
 - Twitter: [@emptst](https://twitter.com/emptst)
-- Qiita:   [@muratak](https://qiita.com/muratak)
+- Mail（個人）: `(¥X.muratakjpXgmail.com)@` の beta normal form
 
 ## 学術
 
@@ -27,7 +27,7 @@
 
 ## Notes
 
-- 
+- 2017.12.08. [第三リスト準同型定理](./thirdhom.md)
 
 ## CV
 
