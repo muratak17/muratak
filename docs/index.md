@@ -1,7 +1,6 @@
 
 # 村田 康佑
 
-- Twitter: [@emptst](https://twitter.com/emptst)
 - Mail（個人）: `(¥X.muratakjpXgmail.com)@` の beta normal form
 
 ## 学術
@@ -14,9 +13,8 @@
   + Curry-Howard同型対応
 - 数理論理学
   + 計算理論
-  + 非古典論理（特に線形論理，部分構造論理）
+  + 非古典論理
 - データマイニング
-  + 機械学習
   + テキストマイニング
 
 ### 論文
